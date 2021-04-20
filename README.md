@@ -1,2 +1,2 @@
-# 2021
-2021 yılı ConConCraft Repo
+# ConConCraft
+> **ConConCraft güncelleme notları reposudur**
